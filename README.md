@@ -1,6 +1,6 @@
 <h1><em> HelloWorld! :earth_americas: Eu sou Pedro R. M. da Silva </em></h1>
 
-<p><em> :computer:  Estagiário de Sistemas </em></p>
+<p><em> :computer:  Estagiário de Sistemas - Usando as tcecnologias/ferramentas: C#, .Net Core, SQL Server, Versionamento de código (Git), Azure DevOps.</em></p>
 <p><em> :city_sunset: Guarulhos - SP </em></p>
 <!-- <div>
   <a href="https://github.com/pedrorodriguesm">
